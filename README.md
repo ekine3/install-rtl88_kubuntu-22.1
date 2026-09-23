@@ -13,4 +13,5 @@ Probably must run `chmod` over the sscript before run it; depends on user rights
 ```privileges of execution
 chmod +x rtl88.sh>
 ```
-!<--- EOF line 16 --->
+
+[!<--- EOF line 17 --->]: DoesthismethodworkONgithub?
