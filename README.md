@@ -1,6 +1,7 @@
 # Wireless usb driver for linux
-This brief script was made to easy install rtl88 driver on ubuntu. 
-Since every some weeks a new kernel update breaks the driver, it is needed to install again and again, so I set this up.  
+This brief script was made to easy install **rtl88** USB wireless driver on Ubuntu.   
+Since every some weeks a new kernel update breaks the driver, it needs to be installed again and again.
+That's why I set this up.  
 
 Wireless card:
 * Plusysee
@@ -8,6 +9,8 @@ Wireless card:
 
 ## OS
 Kubuntu_22.10_x86_64  
-Probably must run, depending on the executions rights:  
-
-> <chmod +x rtl88.sh>
+Probably must run `chmod` over the sscript before run it; depends on user rights and setup.   
+```privileges of execution
+chmod +x rtl88.sh>
+```
+!<--- EOF line 16 --->
